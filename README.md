@@ -5,12 +5,14 @@
 - Go to [5 Fun Facts](#5-Fun-Facts-About-Me)
 - Go to [Some Wisdom At The End](#Some-Wisdom-At-The-End)
 
-## Learning Pathway
+## My Learning Pathway
+
+### Bootcamp Modules
 _in progress_
 - [x] Onboarding 
 - [ ] Web Dev Foundation 
 
-## Programming languages 
+### Programming languages 
 _in progress_
 - [ ] HTML
 - [ ] CSS
