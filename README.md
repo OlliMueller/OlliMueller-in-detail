@@ -1,6 +1,6 @@
 # Overview
 - Go to [Learning Pathway](#Learning-Pathway)
-- Go to [Goal](#Goal)
+- Go to [Goal](#Goal-🥅)
 - Go to [Vision](#Vision)
 - Go to [Fun Facts](#Fun-Facts)
 - Go to [Contributions](#Contributions)
