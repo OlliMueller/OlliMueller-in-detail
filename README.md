@@ -1,10 +1,10 @@
 # Overview
-- Go to [Learning Pathway](#Learning-Pathway)
+- Go to [About Me](#About-Me)
 - Go to [Goal](#Goal)
 - Go to [Vision](#Vision)
 - Go to [Fun Facts](#Fun-Facts)
 - Go to [Contributions](#Contributions)
-- Go to [Some Wisdom At The End)(#Some-Wisdom-At-The-End)
+- Go to [Some Wisdom At The End](#Some-Wisdom-At-The-End)
 
 
 ## Learning Pathway
