@@ -17,7 +17,7 @@
 - [ ] JavaScript
 
 ## About Me
-I'm Oliver from Munich, 34 years, married and father of two sons. After six fulfilling years as a Community Pastor at [ICF Munich]((https://www.icf-muenchen.de/de/). I'm currently taking my next step in my **training as a Web Developer at Coding Bootcamp Europe**.
+I'm Oliver from Munich, 34 years, married and father of two sons. After six fulfilling years as a Community Pastor at [ICF Munich](https://www.icf-muenchen.de/de/). I'm currently taking my next step in my **training as a Web Developer at Coding Bootcamp Europe**.
 
 ## Goal
 I am passionate about **empowering people to reach their full potential** so they can have a positive impact on those around them. I want to contribute as a web developer to create new things, solve problems and give people a platform and visibility through websites. 
