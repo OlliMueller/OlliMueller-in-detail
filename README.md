@@ -16,7 +16,7 @@
 - [ ] CSS
 - [ ] JavaScript
 
-## About Me 🙋‍♂️
+## About Me
 I'm Oliver from Munich, 34 years, married and father of two sons. After six fulfilling years as a Community Pastor at [ICF Munich]((https://www.icf-muenchen.de/de/). I'm currently taking my next step in my **training as a Web Developer at Coding Bootcamp Europe**.
 
 ## Goal
