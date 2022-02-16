@@ -8,10 +8,12 @@
 
 
 ## Learning Pathway
+_in progress_
 - [x] Onboarding 
 - [ ] Web Dev Foundation 
 
-## Programming languages
+## Programming languages 
+_in progress_
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript
